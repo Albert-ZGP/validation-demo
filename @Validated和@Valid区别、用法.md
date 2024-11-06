@@ -22,7 +22,8 @@
 
 所有参数注解含义
 
-![image-20241021111545214](./../../markdownImages/image-20241021111545214.png)
+![image](https://github.com/user-attachments/assets/4b1c9797-1391-4623-a61f-775ff9ed79f1)
+
 
 ## 二、@Valid 用法(导错包不生效)
 
@@ -191,7 +192,7 @@ public class Test{
     private String customField;
 }
 ```
-```java
+```java				
 public class MyController {
     @PostMapping("/myEndpoint")
     public void myEndpoint(@Valid @RequestBody Test myTest) {
