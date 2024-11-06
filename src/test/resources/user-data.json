@@ -1,0 +1,46 @@
+[
+  {
+    "userId": "userId_1",
+    "userName": "userName_e68b4cbffc8e",
+    "gender": 0,
+    "idCard": "110140200101013210",
+    "mobilePhone": "13933334444",
+    "valid": false,
+    "deleted": false,
+    "age": 0,
+    "userDetail": {
+      "hobby": "",
+      "headPortraitUrl": "headPortraitUrl_7259c01522a7"
+    },
+    "accounts": [
+      {
+        "account": "",
+        "password": "password_cc7d429d4792",
+        "userId": "userId_232f4ca855d5"
+      }
+    ],
+    "prefix": ""
+  },
+  {
+    "userId": "userId_2",
+    "userName": "userName_e68b4cbffc8e",
+    "gender": 0,
+    "idCard": "110140200101013210",
+    "mobilePhone": "13933334444",
+    "valid": false,
+    "deleted": false,
+    "age": 0,
+    "userDetail": {
+      "hobby": "",
+      "headPortraitUrl": "headPortraitUrl_7259c01522a7"
+    },
+    "accounts": [
+      {
+        "account": "",
+        "password": "password_cc7d429d4792",
+        "userId": "userId_232f4ca855d5"
+      }
+    ],
+    "prefix": ""
+  }
+]
